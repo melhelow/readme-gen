@@ -1,22 +1,24 @@
 
-# sample
-![badge](https://img.shields.io/static/v1?label=license&message=mozilla&color=blue)
+# README generator
+![badge](https://img.shields.io/static/v1?label=license&message=MIT&color=blue)
 
 ## Username
-asda
+melhelow
 
 ## Description
-description asd aas dadas das da
+generating a README file using node
 
 ## Installation
-Installation steps..
+npm i
 
 ## Usage
+demo for autogenrator via node
 
 
 ## Contributing
-
+please contribute with care
 
 ## Tests
+rub node index.js
 
 
