@@ -1,24 +1,24 @@
 
-# README generator
+# README GENERATOR
 ![badge](https://img.shields.io/static/v1?label=license&message=MIT&color=blue)
 
 ## Username
 melhelow
 
 ## Description
-generating a README file using node
+generate README file using node
 
 ## Installation
 npm i
 
 ## Usage
-demo for autogenrator via node
+demo how to generate file using Node
 
 
 ## Contributing
-please contribute with care
+contribute with care
 
 ## Tests
-rub node index.js
+run node index.js
 
 
