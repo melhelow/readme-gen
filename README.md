@@ -1,24 +1,34 @@
 
-# README GENERATOR
-![badge](https://img.shields.io/static/v1?label=license&message=MIT&color=blue)
+# abc
+![badge](https://img.shields.io/static/v1?label=license&message=BSD&color=blue)
 
 ## Username
 melhelow
 
 ## Description
-generate README file using node
+sfde
 
 ## Installation
-npm i
+fef
 
 ## Usage
-demo how to generate file using Node
+ef
 
 
-## Contributing
-contribute with care
+## screenrecastify link
 
-## Tests
-run node index.js
+https://drive.google.com/file/d/1KZLGvlo4fDqR6negXS3psQzO8yMgPrId/view
+
+
+
+## github 
+
+https://github.com/melhelow/readme-gen "
+
+
+## credits
+
+bootcamp,Tutor session 
+
 
 
